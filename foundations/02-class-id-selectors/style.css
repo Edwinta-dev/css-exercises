@@ -1,0 +1,27 @@
+.redBackground{
+    background-color:rgb(225, 151, 166);
+    color:black;
+    font-family:Verdana, sans-serif;
+}
+.largestText{
+    font-size: xx-large;
+}
+.largeText{
+    font-size:large;
+}
+.smallText{
+    font-size:xx-small;
+}
+#element2{
+    color:blue;
+    font-family:Verdana, sans-serif;
+    font-size: 48px;
+}
+#element4{
+    color:black;
+    background-color:rgb(178, 225, 178);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    font-weight: bolder;
+
+}
